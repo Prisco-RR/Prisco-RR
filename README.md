@@ -1,2 +1,6 @@
-<img width="1536" height="1024" alt="Nombre metálico con electricidad púrpura" src="https://github.com/user-attachments/assets/4cfd11cf-10fb-4bf8-bb72-0064efdb8ffb" />
 
+<h1 align="center"> <b></b>Hola, Soy Prisco</b></h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d503d05-0493-45c9-882a-2aea3f599fbb" width="100%">
+</p>
